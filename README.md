@@ -20,7 +20,7 @@ I'm a computer engineering student at the University of Toronto!
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="40" alt="python logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg" height="40"  style="transform: scale(2); transform-origin: left center; alt="pytorch logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg" height="80" style="vertical-align: middle;" alt="pytorch logo"/>
 </div>
 
 #
