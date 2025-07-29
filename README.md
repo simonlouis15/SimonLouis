@@ -1,15 +1,15 @@
 # Hello there, I'm Simon 👋
 
-I'm a computer engineering student at the University of Toronto!
+###I'm a computer engineering student at the University of Toronto!
 
-## About Me
-☁️ Incoming Cloud Virtualization SWE Intern at AMD
+# About Me
+###☁️ Incoming Cloud Virtualization SWE Intern at AMD
 
-📟 I'm passionate about systems programming and computer architecture
+###📟 I'm passionate about systems programming and computer architecture
 
-📈 I'm currently learning about ML with PyTorch and data analytics with NumPy and Pandas
+###📈 I'm currently learning about ML with PyTorch and data analytics with NumPy and Pandas
 
-### 🛠 Languages & Tools
+# 🛠 Languages & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -23,11 +23,11 @@ I'm a computer engineering student at the University of Toronto!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg" height="40" alt="pytorch logo"/>
 </div>
 
-###
+#
 
 📬 Contact Me
 
-###
+#
 
 <div align="left">
   <a href="https://www.linkedin.com/in/simon-louis-148245260" target="_blank">
@@ -38,6 +38,6 @@ I'm a computer engineering student at the University of Toronto!
   </a>
 </div>
 
-###
+#
 
 
