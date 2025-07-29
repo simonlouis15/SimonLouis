@@ -25,9 +25,7 @@ I'm a computer engineering student at the University of Toronto!
 
 #
 
-📬 Contact Me
-
-#
+# 📬 Contact Me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/simon-louis-148245260" target="_blank">
@@ -39,5 +37,3 @@ I'm a computer engineering student at the University of Toronto!
 </div>
 
 #
-
-
