@@ -3,9 +3,11 @@
 I'm a computer engineering student at the University of Toronto!
 
 ## About Me
-* ☁️ Incoming Cloud Virtualization SWE Intern at AMD
-* 📟 I'm passionate about systems programming and computer architecture
-* 📈 I'm currently learning about ML with PyTorch and data analytics with NumPy and Pandas
+☁️ Incoming Cloud Virtualization SWE Intern at AMD
+
+📟 I'm passionate about systems programming and computer architecture
+
+📈 I'm currently learning about ML with PyTorch and data analytics with NumPy and Pandas
 
 ### 🛠 Languages & Tools
 
@@ -18,7 +20,7 @@ I'm a computer engineering student at the University of Toronto!
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="40" alt="python logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" height="40" alt="pytorch logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg" height="40" alt="pytorch logo"/>
 </div>
 
 ###
