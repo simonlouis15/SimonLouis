@@ -1,13 +1,13 @@
 # Hello there, I'm Simon 👋
 
-###I'm a computer engineering student at the University of Toronto!
+### I'm a computer engineering student at the University of Toronto!
 
 # About Me
-###☁️ Incoming Cloud Virtualization SWE Intern at AMD
+### ☁️ Incoming Cloud Virtualization SWE Intern at AMD
 
-###📟 I'm passionate about systems programming and computer architecture
+### 📟 I'm passionate about systems programming and computer architecture
 
-###📈 I'm currently learning about ML with PyTorch and data analytics with NumPy and Pandas
+### 📈 I'm currently learning about ML with PyTorch and data analytics with NumPy and Pandas
 
 # 🛠 Languages & Tools
 
